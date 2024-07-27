@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 26 Jul 2024 18:24:58 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 19:32:45 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Fri, 26 Jul 2024 19:32:45 -0400</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>New Cornell and Ithaca College students, faculty, and staff as well as newcomers to the Ithaca community need to know what transportation facilities in Ithaca are available to them to effectively navigate within or to or from the small, semi-isolated city, saving them time, money, and the stress of planning.&#xA;This comprehensive transportation guide aims to teach fellow Ithacans the best ways to utilize available transportation facilities by providing the available transportation facilities all in one website!</description>
+    </item>
     <item>
       <title>To / From Ithaca</title>
       <link>//localhost:1313/to_from_ith/</link>

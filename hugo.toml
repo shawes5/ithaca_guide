@@ -57,6 +57,10 @@ themeColor = "#252627"
   # And you can even create generic menu
   [menu]
     [[menu.main]]
+          identifier = "About"
+          name       = "About"
+          url        = "/about"
+    [[menu.main]]
         identifier = "Around Ithaca"
         name       = "Around Ithaca"
         url        = "/around_ith"
