@@ -20,7 +20,7 @@ If you don't have a car, you're in luck! There are several buses available to ge
 >
 > Out of all these apps Google Maps and Transit tend to be the most reliable and stay up to date.
 >
-> **Shopping:**
+> **Shopping**
 > - Target - Routes 13, 30, 36 and Weekend-only 77
 > - Ithaca Farmers Market - Steamboat Landing 545 3rd St - Route 13
 > - Barnes & Noble - Creekside Plaza, (formerly Tops Plaza), 614 S. Meadow St., Ithaca - Route 15
@@ -34,3 +34,6 @@ If you don't have a car, you're in luck! There are several buses available to ge
 >
 > **Hospital**
 > - Cayuga Medical Center - [Route 21](https://maps.app.goo.gl/ZWCFDay1dW3xf8Gp8) from Ithaca Commons
+
+> **[Ithaca Carshare](https://www.ithacacarshare.org/)**
+> Still adding info here.
