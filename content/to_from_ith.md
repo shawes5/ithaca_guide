@@ -8,7 +8,11 @@ draft = false
 
 Make sure to book flights at least a couple months in advance, especially if arriving near move-in dates for [Cornell](https://scl.cornell.edu/residential-life/housing/housing-details/moving-campus) and [Ithaca College](https://www.ithaca.edu/office-residential-life/living-campus/move) students (August 19-25). Ithaca and Syracuse Airports are the closest options.
 
-**Don't have a car?** Not a problem! Make sure to also check out the bus list as there are some available that drive to these airports.
+**Don't have a car?** Not a problem! Make sure to also check out the rental car options, or bus list as there are some available that drive to these airports.
+
+During move in week, new students often find themselves driving back and forth between their dorms, Target, Wegmans, and any other  
+necessary stores to make sure they are comfortable in their new dorms. In this case, a bus from a big city may not be the most ideal 
+option. Thus, we recommend booking a rental 
 
 > **[Ithaca Tompkins International Airport](https://flyithaca.com/)**
 
@@ -23,6 +27,15 @@ Make sure to book flights at least a couple months in advance, especially if arr
 > **Direct Flight Destinations:**
 >   - New York, NY (JFK) 
 >   - Newark, NJ (EWR) 
+>
+>
+> **Car Rentals from Ithaca Airport:**
+>
+>   - Hertz
+>   - Avis
+>   - Budget
+>   - 
+
 
 > **[Syracuse Hancock International Airport](https://syrairport.org/)**
 

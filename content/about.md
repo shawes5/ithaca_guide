@@ -11,7 +11,7 @@ This comprehensive transportation guide aims to teach fellow Ithacans the best w
 We hope you utilize this website to make your travel planning as smooth and straight forward as possible.
 
 ## Authors
-We are a team of 3 Cornell undergraduates who were surprised at the lack of resources available to easily and efficiently determine transportation facilities to get to/from Ithaca as well as navigating within Ithaca. As rising junior and seniors, we want to share information that we learned based on our own experiences as well as from others. If you're new to Ithaca, it can be quite a challenge figuring this out on your own. 
+We are a team of 3 Cornell undergraduates, composed of in-state, out-of-state, and international students, who were surprised at the lack of resources available to easily and efficiently determine transportation facilities to get to/from Ithaca as well as navigating within Ithaca. As rising juniors and seniors, we want to share what we learned based on our own experiences as well as the experiences of others we have met during our time at Cornell. If you’re new to Ithaca, it can be quite a challenge figuring this out on your own.
 
 **Sarah Hawes**
 - Hometown: Crownsville, MD
