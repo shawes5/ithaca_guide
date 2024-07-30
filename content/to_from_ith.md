@@ -4,15 +4,17 @@ date = 2024-07-26T18:24:58-04:00
 draft = false
 +++
 
+## Flying to School?
+Not a problem! Below is an extensive guide on how to best get to Ithaca, with a combination of cars/buses/rental cars.  
+
+> **Move In Travel?**
+During move in week, new students often find themselves driving back and forth between their dorms, Target, Wegmans, and any other necessary stores to make sure they are comfortable in their new home. In this case, a bus from a big city may not be the most ideal option. Thus, we recommend booking a rental car at whichever aiport you arrive in. 
+
+
 ## Airports
+Make sure to book flights at least a couple months in advance, especially if arriving near move-in dates for <span style="color: blue;">[Cornell](https://scl.cornell.edu/residential-life/housing/housing-details/moving-campus)</span>
+ and <span style="color: blue;">[Ithaca College](https://www.ithaca.edu/office-residential-life/living-campus/move)</span> students (August 19-25). Ithaca and Syracuse Airports are the closest options.
 
-Make sure to book flights at least a couple months in advance, especially if arriving near move-in dates for [Cornell](https://scl.cornell.edu/residential-life/housing/housing-details/moving-campus) and [Ithaca College](https://www.ithaca.edu/office-residential-life/living-campus/move) students (August 19-25). Ithaca and Syracuse Airports are the closest options.
-
-**Don't have a car?** Not a problem! Make sure to also check out the rental car options, or bus list as there are some available that drive to these airports.
-
-During move in week, new students often find themselves driving back and forth between their dorms, Target, Wegmans, and any other  
-necessary stores to make sure they are comfortable in their new dorms. In this case, a bus from a big city may not be the most ideal 
-option. Thus, we recommend booking a rental 
 
 > **[Ithaca Tompkins International Airport](https://flyithaca.com/)**
 
@@ -30,18 +32,20 @@ option. Thus, we recommend booking a rental
 >
 >
 > **Car Rentals from Ithaca Airport:**
->
->   - Hertz
->   - Avis
->   - Budget
->   - 
+>   - <span style="color: yellow;">[Hertz](https://www.hertz.com/us/en/location/unitedstates/newyork/ithaca)</span>
+>     - Lowest young renter fee in Ithaca at just $19 per day for renters between 18 and 24.
+>     - Beyond the Dream Car collection, Prestige collection, and the Adrenaline Collection, under 25 renters have access to any car in Hertz's fleet. 
+>   - <span style="color: red;">[Avis](https://www.avis.com/en/locations/us/ny/ithaca/ith)</span>
+>     - Underage surcharge of $84 per day for renters age 18-20, and an underage surcharge of $35 per day for renters age 21-24.
+>   - <span style="color: orange;">[Budget](https://www.budget.com/en/locations/us/ny/ithaca/ith)</span>
+>     - Same as Avis, the 18-20 year old surcharge is $84 per day, and $35 per day for renters age 21-24.
 
 
 > **[Syracuse Hancock International Airport](https://syrairport.org/)**
 
 {{< map2 >}}
 
-> Syracuse Airport is about a 1 hr 20 minute drive from Ithaca which usually has light traffic. There are plenty more flight destinations available at this airport compared to Ithaca Airport.
+> Syracuse Airport is about a 1 hr 20 minute drive from Ithaca which usually has light traffic. There are plenty more domestic flight destinations available at this airport compared to Ithaca Airport.
 >
 > `No direct international flights are available.`
 >
