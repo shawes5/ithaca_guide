@@ -40,7 +40,6 @@ Make sure to book flights at least a couple months in advance, especially if arr
 >   - <span style="color: orange;">[Budget](https://www.budget.com/en/locations/us/ny/ithaca/ith)</span>
 >     - Same as Avis, the 18-20 year old surcharge is $84 per day, and $35 per day for renters age 21-24.
 
-
 > **[Syracuse Hancock International Airport](https://syrairport.org/)**
 
 {{< map2 >}}

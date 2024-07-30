@@ -37,3 +37,9 @@ If you don't have a car, you're in luck! There are several buses available to ge
 
 > **[Ithaca Carshare](https://www.ithacacarshare.org/)**
 > Still adding info here.
+
+
+
+## Biking (maybe make this a new page)
+> If you don't already have your own, renting a bike in Ithaca, New York, offers numerous benefits. It allows you to explore the city's scenic beauty, including gorges, waterfalls, and lakes, at your own pace. Biking is an eco-friendly and cost-effective mode of transportation that also provides significant health benefits. Ithaca is bike-friendly, with many trails and routes like the Cayuga Waterfront Trail and South Hill Recreation Way. Renting a bike is convenient and helps you avoid parking hassles, especially downtown. It also fosters community engagement through biking events and tours, making it an enjoyable and practical way to experience Ithaca.
+> However, you may encounter some pretty steep hills traveling up and down from Cornell's campus to the Commons. 

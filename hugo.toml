@@ -68,3 +68,7 @@ themeColor = "#252627"
         identifier = "To/From Ithaca"
         name       = "To/From Ithaca"
         url        = "/to_from_ith"
+    [[menu.main]]
+        identifier = "User Testimonies"
+        name       = "User Testimonies"
+        url        = "/user_testimonies"
