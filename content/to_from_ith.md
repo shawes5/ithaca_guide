@@ -99,12 +99,28 @@ Make sure to book flights at least a couple months in advance, especially if arr
 > **Airport Destinations**
 > - [Syracuse Hancock International Airport, NY (SYR)](https://www.ourbus.com/routes/ithaca-to-syracuseairport) ($30-50) - semi-frequent except for most Saturdays
 > - [John F. Kennedy International Airport, NY (JFK)](https://www.ourbus.com/routes/ithaca-to-jfk-airport) ($100) 
->   - frequent but routes are often not direct to this airport; usually a 40 minute drive to the terminal
+>   - frequent but routes are often not direct to this airport during non-holiday/moving periods; usually a 40 minute drive to the terminal
 >   - from this airport direct routes are available to Cornell's campus near move-in/out and holidays
+>     - Maximum of 4 times, but depends based on the day: 
+>       - 9:30am - 3pm
+>       - 1pm - 6:45pm
+>       - 4:30pm - 10pm
+>       - 8pm - 1:30am
+>     - Drop offs on West Campus and North Campus
+: 
+Newark Airport → Ithaca
+Max of 4 times, but depends on the day:  7:45am - 11:45pm 10:45am - 2:45pm, 4:45pm - 8:45pm, 7:45pm - 11:45pm
+
 > - [Newark Liberty Airport, NJ (EWR)](https://www.ourbus.com/routes/ithaca-ny-to-newark-airport-nj) ($40-80)
 >   - frequent routes but are often not direct to this airport; usually a 40-50 minute drive to the terminal
 >   - from this airport direct route's are available to Cornell's campus near move-in/out and holidays
->
+>     - Maximum of 4 times, but depends based on the day: 
+>       - 7:45am - 11:45pm 
+>       - 10:45am - 2:45pm
+>       - 4:45pm - 8:45pm
+>       - 7:45pm - 11:45pm
+>     - Drop offs on West Campus and North Campus
+
 > `OurBus does not go to Ithaca Tompkins International Airport.`
 >
 > To get to the Ithaca Airport from Cornell University and Downtown Ithaca take the TCAT on [Route 32](https://www.google.com/maps/dir/Ithaca+Tompkins+International+Airport,+Culligan+Drive,+Ithaca,+NY/Downtown,+Ithaca,+NY/@42.4489487,-76.511933,13.32z/data=!4m14!4m13!1m5!1m1!1s0x89d08282398537b3:0x531403729cf41d94!2m2!1d-76.4585018!2d42.4910833!1m5!1m1!1s0x89d0819c8e655839:0xfa1878509b92491d!2m2!1d-76.4968166!2d42.4396074!3e3?entry=ttu) during any weekday. Take route 77 on the weekends from Cayuga Mall, Winston Court, or Hanshaw Village. You can also go on these routes to go from Ithaca Airport to these destinations.
