@@ -4,7 +4,7 @@ date = 2024-07-26T18:24:58-04:00
 draft = false
 +++
 
-## Flying to School?
+## Flying to Ithaca?
 Not a problem! Below is an extensive guide on how to best get to Ithaca, with a combination of cars/buses/rental cars.  
 
 > **Move In Travel?**
@@ -107,9 +107,6 @@ Make sure to book flights at least a couple months in advance, especially if arr
 >       - 4:30pm - 10pm
 >       - 8pm - 1:30am
 >     - Drop offs on West Campus and North Campus
-: 
-Newark Airport → Ithaca
-Max of 4 times, but depends on the day:  7:45am - 11:45pm 10:45am - 2:45pm, 4:45pm - 8:45pm, 7:45pm - 11:45pm
 
 > - [Newark Liberty Airport, NJ (EWR)](https://www.ourbus.com/routes/ithaca-ny-to-newark-airport-nj) ($40-80)
 >   - frequent routes but are often not direct to this airport; usually a 40-50 minute drive to the terminal
