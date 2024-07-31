@@ -13,23 +13,24 @@ Some introductory content...
 
   <div style="text-align: center;">
     <a href="/college_move_in">
-      <img src="/images/image1.jpg" alt="Image 1" style="width: 300px; height: auto;">
+      <img src="/images/movein.jpeg" alt="Image 1" style="width: 300px; height: auto;">
     </a>
     <p>Buses</p>
   </div>
 
   <div style="text-align: center;">
     <a href="/buses_to_from">
-      <img src="/images/image2.jpg" alt="Image 2" style="width: 300px; height: auto;">
+      <img src="/images/ourbus.jpg" alt="Image 2" style="width: 300px; height: auto;">
     </a>
     <p>Caption for Image 2</p>
   </div>
 
   <div style="text-align: center;">
     <a href="/flying_to_from">
-      <img src="/images/image3.jpg" alt="Image 3" style="width: 300px; height: auto;">
+      <img src="/images/airplane.jpeg" alt="Image 3" style="width: 300px; height: auto;">
     </a>
     <p>Caption for Image 3</p>
   </div>
 
 </div>
+

@@ -12,8 +12,8 @@ During move in week, new students often find themselves driving back and forth b
 
 
 ## Airports
-Make sure to book flights at least a couple months in advance, especially if arriving near move-in dates for <span style="color: blue;">[Cornell](https://scl.cornell.edu/residential-life/housing/housing-details/moving-campus)</span>
- and <span style="color: blue;">[Ithaca College](https://www.ithaca.edu/office-residential-life/living-campus/move)</span> students (August 19-25). Ithaca and Syracuse Airports are the closest options.
+Make sure to book flights at least a couple months in advance, especially if arriving near move-in dates for [Cornell](https://scl.cornell.edu/residential-life/housing/housing-details/moving-campus)
+ and [Ithaca College](https://www.ithaca.edu/office-residential-life/living-campus/move)students (August 19-25). Ithaca and Syracuse Airports are the closest options.
 
 
 > **[Ithaca Tompkins International Airport](https://flyithaca.com/)**
@@ -32,12 +32,12 @@ Make sure to book flights at least a couple months in advance, especially if arr
 >
 >
 > **Car Rentals from Ithaca Airport:**
->   - <span style="color: yellow;">[Hertz](https://www.hertz.com/us/en/location/unitedstates/newyork/ithaca)</span>
+>   - [Hertz](https://www.hertz.com/us/en/location/unitedstates/newyork/ithaca)
 >     - Lowest young renter fee in Ithaca at just $19 per day for renters between 18 and 24.
 >     - Beyond the Dream Car collection, Prestige collection, and the Adrenaline Collection, under 25 renters have access to any car in Hertz's fleet. 
->   - <span style="color: red;">[Avis](https://www.avis.com/en/locations/us/ny/ithaca/ith)</span>
+>   - [Avis](https://www.avis.com/en/locations/us/ny/ithaca/ith)
 >     - Underage surcharge of $84 per day for renters age 18-20, and an underage surcharge of $35 per day for renters age 21-24.
->   - <span style="color: orange;">[Budget](https://www.budget.com/en/locations/us/ny/ithaca/ith)</span>
+>   - [Budget](https://www.budget.com/en/locations/us/ny/ithaca/ith)
 >     - Same as Avis, the 18-20 year old surcharge is $84 per day, and $35 per day for renters age 21-24.
 
 > **[Syracuse Hancock International Airport](https://syrairport.org/)**
