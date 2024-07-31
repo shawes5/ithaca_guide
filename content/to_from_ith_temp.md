@@ -9,28 +9,6 @@ draft = false
 Some introductory content...
 
 <!-- Images Section -->
-<div style="display: flex; justify-content: space-around; margin-top: 50px;">
-
-  <div style="text-align: center;">
-    <a href="/college_move_in">
-      <img src="/images/movein.jpeg" alt="Image 1" style="width: 300px; height: auto;">
-    </a>
-    <p>Buses</p>
-  </div>
-
-  <div style="text-align: center;">
-    <a href="/buses_to_from">
-      <img src="/images/ourbus.jpg" alt="Image 2" style="width: 300px; height: auto;">
-    </a>
-    <p>Caption for Image 2</p>
-  </div>
-
-  <div style="text-align: center;">
-    <a href="/flying_to_from">
-      <img src="/images/airplane.jpeg" alt="Image 3" style="width: 300px; height: auto;">
-    </a>
-    <p>Caption for Image 3</p>
-  </div>
-
-</div>
-
+  {{< image-link src="/images/movein.jpeg" link="/college_move_in" alt="Image 1" caption="Caption for Image 1" >}}
+  {{< image-link src="/images/ourbus.jpg" link="/buses_to_from" alt="Image 2" caption="Caption for Image 2" >}}
+  {{< image-link src="/images/airplane.jpeg" link="/flying_to_from" alt="Image 3" caption="Caption for Image 3" >}}
