@@ -17,18 +17,46 @@
       <description>New Cornell and Ithaca College (IC) students, faculty, and staff as well as newcomers to the Ithaca community need to know what transportation facilities in Ithaca are available to them to effectively navigate within or to or from the small, semi-isolated city, saving them time, money, and the stress of planning.&#xA;This comprehensive transportation guide aims to teach fellow Ithacans the best ways to utilize available transportation facilities by providing the available transportation facilities all in one website!</description>
     </item>
     <item>
-      <title>Navigating To / From Ithaca</title>
+      <title>Buses To / From Ithaca</title>
+      <link>//localhost:1313/buses_to_from/</link>
+      <pubDate>Fri, 26 Jul 2024 18:24:58 -0400</pubDate>
+      <guid>//localhost:1313/buses_to_from/</guid>
+      <description>Your Content Here Some introductory content&amp;hellip;</description>
+    </item>
+    <item>
+      <title>College Move In Specifics</title>
+      <link>//localhost:1313/college_move_in/</link>
+      <pubDate>Fri, 26 Jul 2024 18:24:58 -0400</pubDate>
+      <guid>//localhost:1313/college_move_in/</guid>
+      <description>Your Content Here Some introductory content&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Flying To / From Ithaca</title>
+      <link>//localhost:1313/flying_to_from/</link>
+      <pubDate>Fri, 26 Jul 2024 18:24:58 -0400</pubDate>
+      <guid>//localhost:1313/flying_to_from/</guid>
+      <description>Your Content Here Some introductory content&amp;hellip;</description>
+    </item>
+    <item>
+      <title>nav To / From Ithaca</title>
       <link>//localhost:1313/to_from_ith/</link>
       <pubDate>Fri, 26 Jul 2024 18:24:58 -0400</pubDate>
       <guid>//localhost:1313/to_from_ith/</guid>
-      <description>Airports Make sure to book flights at least a couple months in advance, especially if arriving near move-in dates for Cornell and Ithaca College students (August 19-25). Ithaca and Syracuse Airports are the closest options.&#xA;Don&amp;rsquo;t have a car? Not a problem! Make sure to also check out the bus list as there are some available that drive to these airports.&#xA;Ithaca Tompkins International Airport&#xA;Closest airport for anyone in Ithaca (~15 minute drive)!</description>
+      <description>Flying to Ithaca? Not a problem! Below is an extensive guide on how to best get to Ithaca, with a combination of cars/buses/rental cars.&#xA;Move In Travel? During move in week, new students often find themselves driving back and forth between their dorms, Target, Wegmans, and any other necessary stores to make sure they are comfortable in their new home. In this case, a bus from a big city may not be the most ideal option.</description>
+    </item>
+    <item>
+      <title>Real User Testamonies</title>
+      <link>//localhost:1313/user_testimonies/</link>
+      <pubDate>Fri, 26 Jul 2024 18:24:58 -0400</pubDate>
+      <guid>//localhost:1313/user_testimonies/</guid>
+      <description>Their Thoughs add quotes here</description>
     </item>
     <item>
       <title>Navigating Around Ithaca</title>
       <link>//localhost:1313/around_ith/</link>
       <pubDate>Fri, 26 Jul 2024 18:24:43 -0400</pubDate>
       <guid>//localhost:1313/around_ith/</guid>
-      <description>Buses If you don&amp;rsquo;t have a car, you&amp;rsquo;re in luck! There are several buses available to get around Ithaca. However, keep in mind they might not be 100% reliable when there is construction.&#xA;Tompkins Consolidated Area Transit (TCAT)&#xA;The TCAT bus system is popular amongst Cornell and Ithaca College students, faculty, and staff to get to different buildings on campus and to visit shopping centers outside of campus.&#xA;Check out this website for current bus schedules and routes.</description>
+      <description>Buses If you don&amp;rsquo;t have a car, you&amp;rsquo;re in luck! There are several buses available to get around Ithaca. However, keep in mind they might not be 100% reliable when there is construction, bad weather (any kind of rain/snow), or any other unexpected events. Buses may get especially crowded in the winter when students are looking to avoid the snowy walks to class, and you may not get a seat.</description>
     </item>
   </channel>
 </rss>
