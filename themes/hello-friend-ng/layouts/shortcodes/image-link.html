@@ -1,0 +1,7 @@
+<!-- layouts/shortcodes/image-link.html -->
+<div class="image-container">
+    <a href="{{ .Get "link" }}">
+        <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" class="responsive-image">
+        <div class="caption">{{ .Get "caption" }}</div>
+    </a>
+</div>

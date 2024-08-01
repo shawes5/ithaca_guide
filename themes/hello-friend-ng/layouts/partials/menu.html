@@ -2,10 +2,19 @@
     <ul class="menu__inner">
         {{- $currentPage := . -}}
         {{ range .Site.Menus.main -}}
-            <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+            <li class="{{ if .HasChildren }}has-dropdown{{ end }}">
+                <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+                {{ if .HasChildren }}
+                    <ul class="dropdown">
+                        {{ range .Children }}
+                            <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+                        {{ end }}
+                    </ul>
+                {{ end }}
+            </li>
         {{- end }}
 
-        {{- if .Site.Params.EnableGlobalLanguageMenu }}
+        {{ if .Site.Params.EnableGlobalLanguageMenu }}
         <div class="submenu">
             <li class="dropdown">
                 <a href="javascript:void(0)" class="dropbtn">{{ .Language }}</a>
@@ -18,6 +27,6 @@
                 </div>
             </li>
         </div>
-        {{- end }}
+        {{ end }}
     </ul>
 </nav>

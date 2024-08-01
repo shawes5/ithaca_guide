@@ -11,52 +11,87 @@
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>//localhost:1313/about/</link>
+      <link>//localhost:1313/1_about/</link>
       <pubDate>Fri, 26 Jul 2024 19:32:45 -0400</pubDate>
-      <guid>//localhost:1313/about/</guid>
+      <guid>//localhost:1313/1_about/</guid>
       <description>New Cornell and Ithaca College (IC) students, faculty, and staff as well as newcomers to the Ithaca community need to know what transportation facilities in Ithaca are available to them to effectively navigate within or to or from the small, semi-isolated city, saving them time, money, and the stress of planning.&#xA;This comprehensive transportation guide aims to teach fellow Ithacans the best ways to utilize available transportation facilities by providing the available transportation facilities all in one website!</description>
     </item>
     <item>
-      <title>Buses To / From Ithaca</title>
-      <link>//localhost:1313/buses_to_from/</link>
+      <title>Biking</title>
+      <link>//localhost:1313/2_biking/</link>
       <pubDate>Fri, 26 Jul 2024 18:24:58 -0400</pubDate>
-      <guid>//localhost:1313/buses_to_from/</guid>
-      <description>Your Content Here Some introductory content&amp;hellip;</description>
+      <guid>//localhost:1313/2_biking/</guid>
+      <description>If you don&amp;rsquo;t already have your own, renting a bike in Ithaca, New York, offers numerous benefits. It allows you to explore the city&amp;rsquo;s scenic beauty, including gorges, waterfalls, and lakes, at your own pace. Biking is an eco-friendly and cost-effective mode of transportation that also provides significant health benefits. Ithaca is bike-friendly, with many trails and routes like the Cayuga Waterfront Trail and South Hill Recreation Way. Renting a bike is convenient and helps you avoid parking hassles, especially downtown.</description>
+    </item>
+    <item>
+      <title>Buses To / From Ithaca</title>
+      <link>//localhost:1313/3_buses_to_from/</link>
+      <pubDate>Fri, 26 Jul 2024 18:24:58 -0400</pubDate>
+      <guid>//localhost:1313/3_buses_to_from/</guid>
+      <description>Buses Looking for a bus to escape Ithaca? You have multiple options!&#xA;OurBus&#xA;OurBus is a popular option amongst Cornell and IC students traveling along the East Coast, however, the bus rides are &amp;ldquo;activated&amp;rdquo; by demand so they might not be available at times. As such, they are more available during Cornell and IC breaks. Please see the following list of key destinations to/from Ithaca:&#xA;Baltimore, MD ($95) - not frequent; more common near breaks Binghampton, NY ($8) - frequent Boston, MA ($85-125) - semi-frequent Buffalo, NY ($29) - frequent Niagara, NY ($30) - frequent New York, NY ($25-40) - frequent Philadelphia, PA ($85) - not frequent; more common near breaks Rochester, NY ($24) - frequent Syracuse, NY ($30-35) - frequent except for most Saturdays *Prices may change.</description>
     </item>
     <item>
       <title>College Move In Specifics</title>
-      <link>//localhost:1313/college_move_in/</link>
+      <link>//localhost:1313/3_college_move_in/</link>
       <pubDate>Fri, 26 Jul 2024 18:24:58 -0400</pubDate>
-      <guid>//localhost:1313/college_move_in/</guid>
-      <description>Your Content Here Some introductory content&amp;hellip;</description>
+      <guid>//localhost:1313/3_college_move_in/</guid>
+      <description>Move In Travel? During move in week, new students often find themselves driving back and forth between their dorms, Target, Wegmans, and any other necessary stores to make sure they are comfortable in their new home. In this case, a bus from a big city may not be the most ideal option. Thus, we recommend booking a rental car at whichever aiport you arrive in.</description>
     </item>
     <item>
       <title>Flying To / From Ithaca</title>
-      <link>//localhost:1313/flying_to_from/</link>
+      <link>//localhost:1313/3_flying_to_from/</link>
       <pubDate>Fri, 26 Jul 2024 18:24:58 -0400</pubDate>
-      <guid>//localhost:1313/flying_to_from/</guid>
-      <description>Your Content Here Some introductory content&amp;hellip;</description>
+      <guid>//localhost:1313/3_flying_to_from/</guid>
+      <description>Airports Make sure to book flights at least a couple months in advance, especially if arriving near move-in dates for Cornell and Ithaca Collegestudents (August 19-25). Ithaca and Syracuse Airports are the closest options.&#xA;Ithaca Tompkins International Airport&#xA;Closest airport for anyone in Ithaca (~15 minute drive)! However, the destinations options are limited so you may need to find another airport.&#xA;No direct international flights are available.&#xA;Direct Flight Destinations:</description>
     </item>
     <item>
-      <title>nav To / From Ithaca</title>
-      <link>//localhost:1313/to_from_ith/</link>
+      <title>Navigating To / From Ithaca</title>
+      <link>//localhost:1313/1_to_from_ith/</link>
       <pubDate>Fri, 26 Jul 2024 18:24:58 -0400</pubDate>
-      <guid>//localhost:1313/to_from_ith/</guid>
-      <description>Flying to Ithaca? Not a problem! Below is an extensive guide on how to best get to Ithaca, with a combination of cars/buses/rental cars.&#xA;Move In Travel? During move in week, new students often find themselves driving back and forth between their dorms, Target, Wegmans, and any other necessary stores to make sure they are comfortable in their new home. In this case, a bus from a big city may not be the most ideal option.</description>
+      <guid>//localhost:1313/1_to_from_ith/</guid>
+      <description>If you live in New York or one of the bordering states, the easiest and typically cheapest way to reach Ithaca is by car. However, this luxury is not afforded to many students due to proximity. Depending on where you are coming from, there are various bus and airplane options to reach Ithaca. Most out-of-state students who live in far states, as well as international students, elect to fly to Ithaca via one of the nearby airports for shorter breaks unless long road trips are your thing.</description>
+    </item>
+    <item>
+      <title>Navigating To / From Ithaca</title>
+      <link>//localhost:1313/temp/</link>
+      <pubDate>Fri, 26 Jul 2024 18:24:58 -0400</pubDate>
+      <guid>//localhost:1313/temp/</guid>
+      <description>Section Title Your content here&amp;hellip;&#xA;Caption Text Here Caption Text Here Caption Text Here </description>
     </item>
     <item>
       <title>Real User Testamonies</title>
-      <link>//localhost:1313/user_testimonies/</link>
+      <link>//localhost:1313/1_user_testimonies/</link>
       <pubDate>Fri, 26 Jul 2024 18:24:58 -0400</pubDate>
-      <guid>//localhost:1313/user_testimonies/</guid>
-      <description>Their Thoughs add quotes here</description>
+      <guid>//localhost:1313/1_user_testimonies/</guid>
+      <description>Their Thoughs Chloe O. (Cornell MBA &amp;amp; MILR):&#xA;“Before coming to Cornell, I wish I had gotten a heads up that travel would be tedious. It’s a lot of DIY, you either have to ask people for their advice or look for it online. For me it was a lot of trial and error to see what worked and what didn’t. Having clarity on all of the options would have been great.</description>
+    </item>
+    <item>
+      <title>Rideshare Services</title>
+      <link>//localhost:1313/2_rideshare/</link>
+      <pubDate>Fri, 26 Jul 2024 18:24:58 -0400</pubDate>
+      <guid>//localhost:1313/2_rideshare/</guid>
+      <description>Ithaca Carshare&#xA;Still adding info here.</description>
+    </item>
+    <item>
+      <title>TCAT</title>
+      <link>//localhost:1313/2_tcat/</link>
+      <pubDate>Fri, 26 Jul 2024 18:24:58 -0400</pubDate>
+      <guid>//localhost:1313/2_tcat/</guid>
+      <description>Buses If you don&amp;rsquo;t have a car, you&amp;rsquo;re in luck! There are several buses available to get around Ithaca. However, keep in mind they might not be 100% reliable when there is construction, bad weather (any kind of rain/snow), or any other unexpected events. Buses may get especially crowded in the winter when students are looking to avoid the snowy walks to class, and you may not get a seat.</description>
+    </item>
+    <item>
+      <title>Walking</title>
+      <link>//localhost:1313/2_walking/</link>
+      <pubDate>Fri, 26 Jul 2024 18:24:58 -0400</pubDate>
+      <guid>//localhost:1313/2_walking/</guid>
+      <description>Your Content Here Some introductory content&amp;hellip;</description>
     </item>
     <item>
       <title>Navigating Around Ithaca</title>
-      <link>//localhost:1313/around_ith/</link>
+      <link>//localhost:1313/1_around_ith/</link>
       <pubDate>Fri, 26 Jul 2024 18:24:43 -0400</pubDate>
-      <guid>//localhost:1313/around_ith/</guid>
-      <description>Buses If you don&amp;rsquo;t have a car, you&amp;rsquo;re in luck! There are several buses available to get around Ithaca. However, keep in mind they might not be 100% reliable when there is construction, bad weather (any kind of rain/snow), or any other unexpected events. Buses may get especially crowded in the winter when students are looking to avoid the snowy walks to class, and you may not get a seat.</description>
+      <guid>//localhost:1313/1_around_ith/</guid>
+      <description>When navigating around Ithaca, New York, you have several convenient transportation options. The Tompkins Consolidated Area Transit (TCAT) offers reliable bus services across the city and surrounding areas, making it easy to reach your destination. For more personalized travel, Uber provides a flexible ride-hailing service. Renting a car gives you the freedom to explore at your own pace, especially for longer trips. For a more eco-friendly option, renting a bicycle allows you to enjoy Ithaca&amp;rsquo;s scenic routes.</description>
     </item>
   </channel>
 </rss>

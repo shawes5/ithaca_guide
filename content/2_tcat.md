@@ -1,6 +1,6 @@
 +++
-title = 'Navigating Around Ithaca'
-date = 2024-07-26T18:24:43-04:00
+title = "TCAT"
+date = 2024-07-26T18:24:58-04:00
 draft = false
 +++
 
@@ -35,13 +35,3 @@ If you don't have a car, you're in luck! There are several buses available to ge
 > **Hospital**
 > - Cayuga Medical Center - [Route 21](https://maps.app.goo.gl/ZWCFDay1dW3xf8Gp8) from Ithaca Commons
 > - Cayuga Women's Health - Route 13
->
->
-> **[Ithaca Carshare](https://www.ithacacarshare.org/)**
-> Still adding info here.
-
-
-
-## Biking (maybe make this a new page)
-> If you don't already have your own, renting a bike in Ithaca, New York, offers numerous benefits. It allows you to explore the city's scenic beauty, including gorges, waterfalls, and lakes, at your own pace. Biking is an eco-friendly and cost-effective mode of transportation that also provides significant health benefits. Ithaca is bike-friendly, with many trails and routes like the Cayuga Waterfront Trail and South Hill Recreation Way. Renting a bike is convenient and helps you avoid parking hassles, especially downtown. It also fosters community engagement through biking events and tours, making it an enjoyable and practical way to experience Ithaca.
-> However, you may encounter some pretty steep hills traveling up and down from Cornell's campus to the Commons. 

@@ -37,12 +37,13 @@ themeColor = "#252627"
 [languages]
   [languages.en]
     title = "The Ithacan Transit Guide"
-    keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    readOtherPosts = "Read other posts"
+    
 
   [languages.en.params]
     subtitle  = "A simple theme for Hugo"
+    keywords = ""
+    readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
       logoText = "The Ithacan Transit Guide"
@@ -59,16 +60,44 @@ themeColor = "#252627"
     [[menu.main]]
           identifier = "About"
           name       = "About"
-          url        = "/about"
+          url        = "/1_about"
     [[menu.main]]
         identifier = "Around Ithaca"
         name       = "Around Ithaca"
-        url        = "/around_ith"
+        url        = "/1_around_ith"
+        [[menu.main]]
+          parent = "Around Ithaca"
+          name   = "TCAT"
+          url    = "/2_tcat"
+        [[menu.main]]
+          parent = "Around Ithaca"
+          name   = "Rideshare Services"
+          url    = "/2_rideshare"
+        [[menu.main]]
+          parent = "Around Ithaca"
+          name   = "Biking"
+          url    = "/2_biking"
+        [[menu.main]]
+          parent = "Around Ithaca"
+          name   = "Walking"
+          url    = "/2_walking"
     [[menu.main]]
         identifier = "To/From Ithaca"
         name       = "To/From Ithaca!"
-        url        = "/to_from_ith"
+        url        = "/1_to_from_ith"       
+        [[menu.main]]
+          parent = "To/From Ithaca"
+          name   = "Buses"
+          url    = "/3_buses_to_from"
+        [[menu.main]]
+          parent = "To/From Ithaca"
+          name   = "Airplanes"
+          url    = "/3_flying_to_from"
+        [[menu.main]]
+          parent = "To/From Ithaca"
+          name   = "College Move-In"
+          url    = "/3_college_move_in"
     [[menu.main]]
         identifier = "User Testimonies"
         name       = "User Testimonies"
-        url        = "/user_testimonies"
+        url        = "/1_user_testimonies"

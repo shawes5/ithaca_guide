@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="">
 <meta name="description" content="" />
-<meta name="keywords" content="homepage, blog" />
+<meta name="keywords" content="" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="" />
 <link rel="canonical" href="//localhost:1313/blog/" />
@@ -80,6 +80,51 @@
     
         <div class="container">
             <header class="header">
+    <style>
+        .menu ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+    
+        .menu li {
+            position: relative;
+            padding: 10px;
+        }
+    
+        .dropdown {
+            display: none;
+            position: absolute;
+            left: 0;
+            top: 100%;
+            background-color: white;
+            box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+            z-index: 1000;
+            min-width: 160px;  
+            white-space: nowrap;  
+        }
+
+    
+        .dropdown li a {
+            display: block; 
+            padding: 10px; 
+            text-align: left; 
+            color: black;  
+            text-decoration: none;  
+            overflow: hidden; 
+            text-overflow: ellipsis; 
+        }
+    
+        .dropdown li a:hover {
+            background-color: #f0f0f0;  
+        }
+    
+        .has-dropdown:hover .dropdown {
+            display: block;  
+        }
+    </style>
+    
+    
     <span class="header__inner">
         <a href="/" style="text-decoration: none;">
     <div class="logo">
@@ -100,7 +145,43 @@
         <span class="header__right">
             
                 <nav class="menu">
-    <ul class="menu__inner"><li><a href="/about">About</a></li><li><a href="/around_ith">Around Ithaca</a></li><li><a href="/to_from_ith">To/From Ithaca!</a></li><li><a href="/user_testimonies">User Testimonies</a></li>
+    <ul class="menu__inner"><li class="">
+                <a href="/1_about">About</a>
+                
+            </li><li class="has-dropdown">
+                <a href="/1_around_ith">Around Ithaca</a>
+                
+                    <ul class="dropdown">
+                        
+                            <li><a href="/2_biking">Biking</a></li>
+                        
+                            <li><a href="/2_rideshare">Rideshare Services</a></li>
+                        
+                            <li><a href="/2_tcat">TCAT</a></li>
+                        
+                            <li><a href="/2_walking">Walking</a></li>
+                        
+                    </ul>
+                
+            </li><li class="has-dropdown">
+                <a href="/1_to_from_ith">To/From Ithaca!</a>
+                
+                    <ul class="dropdown">
+                        
+                            <li><a href="/3_flying_to_from">Airplanes</a></li>
+                        
+                            <li><a href="/3_buses_to_from">Buses</a></li>
+                        
+                            <li><a href="/3_college_move_in">College Move-In</a></li>
+                        
+                    </ul>
+                
+            </li><li class="">
+                <a href="/1_user_testimonies">User Testimonies</a>
+                
+            </li>
+
+        
     </ul>
 </nav>
 

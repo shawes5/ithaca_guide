@@ -1,0 +1,20 @@
+/* Flexbox container for images */
+.image-row {
+  display: flex;
+  justify-content: space-around; /* Adjust alignment as needed */
+  flex-wrap: wrap; /* Optional: Allows wrapping to new line if necessary */
+}
+
+/* Style for individual image containers */
+.image-container {
+  flex: 1;
+  margin: 10px; /* Adjust spacing between images */
+  text-align: center; /* Center captions if needed */
+}
+
+/* Style for images */
+.responsive-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
