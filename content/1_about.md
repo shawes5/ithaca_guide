@@ -6,9 +6,15 @@ draft = false
 
 New Cornell and Ithaca College (IC) students, faculty, and staff as well as newcomers to the Ithaca community need to know what transportation facilities in Ithaca are available to them to effectively navigate within or to or from the small, semi-isolated city, saving them time, money, and the stress of planning.
 
-This comprehensive transportation guide aims to teach fellow Ithacans the best ways to utilize available transportation facilities by providing the available transportation facilities all in one website!
+This comprehensive transportation guide aims to teach fellow Ithacans the best ways to utilize available transportation facilities by providing consolidating information all in one website and suggestions!
 
 We hope you utilize this website to make your travel planning as smooth and straight forward as possible.
+
+## Motivation
+We interviewed international MBA student Chloe, who is currently enrolled at Cornell and had no prior experience traveling to and around Ithaca. She emphasized the importance of researching all possible travel options, as they are often limited, especially when time is short. Planning ahead for both time and expenses is crucial; for example, buses are usually cheaper but take more time, while planes are faster but much more expensive. When asked about getting around Ithaca, she mentioned a preference for walking. Despite the availability of the TCAT bus service, she found it sometimes unreliable due to weather conditions, making walking a more dependable option for her.
+
+## Who We've Helped
+To hear testimonies from real users like Chloe, check out the User Testimonies page to see how real Cornell and IC students have benefited from the information given in our guide. 
 
 ## Authors
 We are a team of 3 Cornell undergraduates, composed of in-state, out-of-state, and international students, who were surprised at the lack of resources available to easily and efficiently determine transportation facilities to get to/from Ithaca as well as navigating within Ithaca. As rising juniors and seniors, we want to share what we learned based on our own experiences as well as the experiences of others we have met during our time at Cornell. If you’re new to Ithaca, it can be quite a challenge figuring this out on your own.
@@ -34,8 +40,10 @@ We are a team of 3 Cornell undergraduates, composed of in-state, out-of-state, a
 - Minor(s): Operations Research & Information Engineering Applied Economics
 - Year: Senior
 
-## Our Motivation?
-We interviewed international MBA student Chloe, who is currently enrolled at Cornell and had no prior experience traveling to and around Ithaca. She emphasized the importance of researching all possible travel options, as they are often limited, especially when time is short. Planning ahead for both time and expenses is crucial; for example, buses are usually cheaper but take more time, while planes are faster but much more expensive. When asked about getting around Ithaca, she mentioned a preference for walking. Despite the availability of the TCAT bus service, she found it sometimes unreliable due to weather conditions, making walking a more dependable option for her.
+#
 
 ## Who We've Helped
 To hear testimonies from real users like Chloe, check out the User Testimonies page to see how real Cornell students have benefited from the information given in our guide.
+Title Page Sources:
+
+[1]  "Ithaca Commons Redesign." Sasaki, 2024. [Photo]. Available: https://www.sasaki.com/projects/ithaca-commons-redesign/ (accessed July 31, 2024).
