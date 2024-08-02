@@ -2,6 +2,7 @@
 <html lang="{{ .Site.Language }}">
     <head>
         {{ partial "head.html" . }}
+        <link rel="stylesheet" href="{{ "css/styles.css" | relURL }}">
     </head>
 
     {{ block "body" . }}
@@ -15,9 +16,8 @@
                 {{ block "main" . }}{{ end }}
             </div>
 
-            {{ block "footer" . }}
-                {{ partial "footer.html" . }}
-            {{ end }}
+            <!-- Include the footer partial here -->
+            {{ partial "footer.html" . }}
         </div>
 
         {{ partial "javascript.html" . }}

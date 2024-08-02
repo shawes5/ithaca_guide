@@ -17,18 +17,25 @@
       <description>New Cornell and Ithaca College (IC) students, faculty, and staff as well as newcomers to the Ithaca community need to know what transportation facilities in Ithaca are available to them to effectively navigate within or to or from the small, semi-isolated city, saving them time, money, and the stress of planning.&#xA;This comprehensive transportation guide aims to teach fellow Ithacans the best ways to utilize available transportation facilities by providing the available transportation facilities all in one website!</description>
     </item>
     <item>
+      <title>Source Page</title>
+      <link>//localhost:1313/source-page/</link>
+      <pubDate>Fri, 26 Jul 2024 19:32:45 -0400</pubDate>
+      <guid>//localhost:1313/source-page/</guid>
+      <description>This is the source page with detailed information and references.</description>
+    </item>
+    <item>
       <title>Biking</title>
       <link>//localhost:1313/2_biking/</link>
       <pubDate>Fri, 26 Jul 2024 18:24:58 -0400</pubDate>
       <guid>//localhost:1313/2_biking/</guid>
-      <description>If you don&amp;rsquo;t already have your own, renting a bike in Ithaca, New York, offers numerous benefits. It allows you to explore the city&amp;rsquo;s scenic beauty, including gorges, waterfalls, and lakes, at your own pace. Biking is an eco-friendly and cost-effective mode of transportation that also provides significant health benefits. Ithaca is bike-friendly, with many trails and routes like the Cayuga Waterfront Trail and South Hill Recreation Way. Renting a bike is convenient and helps you avoid parking hassles, especially downtown.</description>
+      <description>If you don&amp;rsquo;t already have your own, renting a bike in Ithaca, New York, offers numerous benefits. It allows you to explore the city&amp;rsquo;s scenic beauty, including gorges, waterfalls, and lakes, at your own pace. Biking is an eco-friendly and cost-effective mode of transportation that also provides significant health benefits.&#xA;Ithaca is bike-friendly, with many trails and routes like the Cayuga Waterfront Trail and South Hill Recreation Way, which you can find below.</description>
     </item>
     <item>
       <title>Buses To / From Ithaca</title>
       <link>//localhost:1313/3_buses_to_from/</link>
       <pubDate>Fri, 26 Jul 2024 18:24:58 -0400</pubDate>
       <guid>//localhost:1313/3_buses_to_from/</guid>
-      <description>Buses Looking for a bus to escape Ithaca? You have multiple options!&#xA;OurBus&#xA;OurBus is a popular option amongst Cornell and IC students traveling along the East Coast, however, the bus rides are &amp;ldquo;activated&amp;rdquo; by demand so they might not be available at times. As such, they are more available during Cornell and IC breaks. Please see the following list of key destinations to/from Ithaca:&#xA;Baltimore, MD ($95) - not frequent; more common near breaks Binghampton, NY ($8) - frequent Boston, MA ($85-125) - semi-frequent Buffalo, NY ($29) - frequent Niagara, NY ($30) - frequent New York, NY ($25-40) - frequent Philadelphia, PA ($85) - not frequent; more common near breaks Rochester, NY ($24) - frequent Syracuse, NY ($30-35) - frequent except for most Saturdays *Prices may change.</description>
+      <description>Buses Looking for a bus to escape Ithaca? You have multiple options!&#xA;Our Bus OurBus is a popular option amongst Cornell and IC students traveling along the East Coast, however, the bus rides are &amp;ldquo;activated&amp;rdquo; by demand so they might not be available at times. As such, they are more available during Cornell and IC breaks. Please see the following list of key destinations to/from Ithaca:&#xA;Baltimore, MD ($95) - not frequent; more common near breaks Binghampton, NY ($8) - frequent Boston, MA ($85-125) - semi-frequent Buffalo, NY ($29) - frequent Niagara, NY ($30) - frequent New York, NY ($25-40) - frequent Philadelphia, PA ($85) - not frequent; more common near breaks Rochester, NY ($24) - frequent Syracuse, NY ($30-35) - frequent except for most Saturdays *Prices may change.</description>
     </item>
     <item>
       <title>College Move In Specifics</title>
@@ -42,7 +49,7 @@
       <link>//localhost:1313/3_flying_to_from/</link>
       <pubDate>Fri, 26 Jul 2024 18:24:58 -0400</pubDate>
       <guid>//localhost:1313/3_flying_to_from/</guid>
-      <description>Airports Make sure to book flights at least a couple months in advance, especially if arriving near move-in dates for Cornell and Ithaca Collegestudents (August 19-25). Ithaca and Syracuse Airports are the closest options.&#xA;Ithaca Tompkins International Airport&#xA;Closest airport for anyone in Ithaca (~15 minute drive)! However, the destinations options are limited so you may need to find another airport.&#xA;No direct international flights are available.&#xA;Direct Flight Destinations:</description>
+      <description>Airports Make sure to book flights at least a couple months in advance, especially if arriving near move-in dates for Cornell and Ithaca College students (for 2025: August 19-25) or around holiday periods, as flights can fill up quickly or get expensive. Ithaca and Syracuse Airports are the closest options.&#xA;Ithaca Tompkins International Airport Closest airport for anyone in Ithaca (~15 minute drive)! However, the destinations options are limited so you may need to find another airport.</description>
     </item>
     <item>
       <title>Navigating To / From Ithaca</title>
@@ -50,13 +57,6 @@
       <pubDate>Fri, 26 Jul 2024 18:24:58 -0400</pubDate>
       <guid>//localhost:1313/1_to_from_ith/</guid>
       <description>If you live in New York or one of the bordering states, the easiest and typically cheapest way to reach Ithaca is by car. However, this luxury is not afforded to many students due to proximity. Depending on where you are coming from, there are various bus and airplane options to reach Ithaca. Most out-of-state students who live in far states, as well as international students, elect to fly to Ithaca via one of the nearby airports for shorter breaks unless long road trips are your thing.</description>
-    </item>
-    <item>
-      <title>Navigating To / From Ithaca</title>
-      <link>//localhost:1313/temp/</link>
-      <pubDate>Fri, 26 Jul 2024 18:24:58 -0400</pubDate>
-      <guid>//localhost:1313/temp/</guid>
-      <description>Section Title Your content here&amp;hellip;&#xA;Caption Text Here Caption Text Here Caption Text Here </description>
     </item>
     <item>
       <title>Real User Testamonies</title>

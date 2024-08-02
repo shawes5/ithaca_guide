@@ -8,7 +8,7 @@ draft = false
 
 **Looking for a bus to escape Ithaca?** You have multiple options!
 
-> **[OurBus](https://www.ourbus.com/routes?origin=Ithaca,%20NY)**
+>**{{< external-link href="https://www.ourbus.com/routes?origin=Ithaca,%20NY" >}}Our Bus{{< /external-link >}}**
 > 
 > OurBus is a popular option amongst Cornell and IC students traveling along the East Coast, however, the bus rides are "activated" by demand so they might not be available at times. As such, they are more available during Cornell and IC breaks. Please see the following list of key destinations to/from Ithaca:
 >
@@ -25,8 +25,9 @@ draft = false
 > *Prices may change. These prices also tend to increase over time as the bus gets closer to being sold out so it is recommended to book in advance.
 >
 > **Airport Destinations**
-> - [Syracuse Hancock International Airport, NY (SYR)](https://www.ourbus.com/routes/ithaca-to-syracuseairport) ($30-50) - semi-frequent except for most Saturdays
-> - [John F. Kennedy International Airport, NY (JFK)](https://www.ourbus.com/routes/ithaca-to-jfk-airport) ($100) 
+> - {{< external-link href="https://www.ourbus.com/routes/ithaca-to-syracuseairport" >}}Syracuse Hancock International Airport, NY (SYR){{< /external-link >}} ($30-50) - semi-frequent except for most Saturdays
+> - {{< external-link href="https://www.ourbus.com/routes/ithaca-to-jfk-airport" >}}John F. Kennedy International Airport, NY (JFK){{< /external-link >}} 
+ ($100) 
 >   - frequent but routes are often not direct to this airport during non-holiday/moving periods; usually a 40 minute drive to the terminal
 >   - from this airport direct routes are available to Cornell's campus near move-in/out and holidays
 >     - Maximum of 4 times, but depends based on the day: 
@@ -36,8 +37,7 @@ draft = false
 >       - 8pm - 1:30am
 >     - Drop offs on West Campus and North Campus
 >
->   
-> - [Newark Liberty Airport, NJ (EWR)](https://www.ourbus.com/routes/ithaca-ny-to-newark-airport-nj) ($40-80)
+> - {{< external-link href="https://www.ourbus.com/routes/ithaca-ny-to-newark-airport-nj" >}}Newark Liberty Airport, NJ (EWR){{< /external-link >}} ($40-80)
 >   - frequent routes but are often not direct to this airport; usually a 40-50 minute drive to the terminal
 >   - from this airport direct route's are available to Cornell's campus near move-in/out and holidays
 >     - Maximum of 4 times, but depends based on the day: 
@@ -49,11 +49,10 @@ draft = false
 >
 > `OurBus does not go to Ithaca Tompkins International Airport.`
 >
-> To get to the Ithaca Airport from Cornell University and Downtown Ithaca take the TCAT on [Route 32](https://www.google.com/maps/dir/Ithaca+Tompkins+International+Airport,+Culligan+Drive,+Ithaca,+NY/Downtown,+Ithaca,+NY/@42.4489487,-76.511933,13.32z/data=!4m14!4m13!1m5!1m1!1s0x89d08282398537b3:0x531403729cf41d94!2m2!1d-76.4585018!2d42.4910833!1m5!1m1!1s0x89d0819c8e655839:0xfa1878509b92491d!2m2!1d-76.4968166!2d42.4396074!3e3?entry=ttu) during any weekday. Take route 77 on the weekends from Cayuga Mall, Winston Court, or Hanshaw Village. You can also go on these routes to go from Ithaca Airport to these destinations.
+> To get to the Ithaca Airport from Cornell University and Downtown Ithaca take the TCAT on {{< external-link href="https://www.google.com/maps/dir/Ithaca+Tompkins+International+Airport,+Culligan+Drive,+Ithaca,+NY/Downtown,+Ithaca,+NY/@42.4489487,-76.511933,13.32z/data=!4m14!4m13!1m5!1m1!1s0x89d08282398537b3:0x531403729cf41d94!2m2!1d-76.4585018!2d42.4910833!1m5!1m1!1s0x89d0819c8e655839:0xfa1878509b92491d!2m2!1d-76.4968166!2d42.4396074!3e3?entry=ttu" >}}Route 32{{< /external-link >}}  during any weekday. Take route 77 on the weekends from Cayuga Mall, Winston Court, or Hanshaw Village. You can also go on these routes to go from Ithaca Airport to these destinations.
 
-
-> **[FlixBus](https://www.flixbus.co.uk/bus-routes?departureCity=99c4f86c-3ecb-11ea-8017-02437075395e)**
+> **{{< external-link href="https://www.flixbus.co.uk/bus-routes?departureCity=99c4f86c-3ecb-11ea-8017-02437075395e" >}}FlixBus{{< /external-link >}}**
 > Still adding info here.
 
-> **[Coach USA](https://www.coachusa.com/bus-schedules/ithaca-platinum)**
+> **{{< external-link href="https://www.coachusa.com/bus-schedules/ithaca-platinum" >}}Coach USA{{< /external-link >}}**
 > Still adding info here.
