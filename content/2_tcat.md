@@ -14,7 +14,7 @@ If you don't have a car, you're in luck! There are several buses available to ge
 >
 > You can find the full TCAT map here, though we recommend using the apps listed to help plan your ride:
 >{{< image src="/img/tcatmap.jpeg" alt="TCAT Map" >}}
-> TCAT Map [12]
+> TCAT Map [11]
 > 
 > **Check out this {{< external-link href="https://tcatbus.com/bus-schedules#route13/" >}}website{{< /external-link >}}  for current bus schedules and routes.** 
 > You can also access the bus schedules and add notifications on your phone by using the following apps:

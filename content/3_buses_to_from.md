@@ -8,8 +8,8 @@ draft = false
 
 **Looking for a bus to escape Ithaca?** You have multiple options!
 
->**{{< external-link href="https://www.ourbus.com/routes?origin=Ithaca,%20NY" >}}Our Bus [17]{{< /external-link >}}**
-> {{< image src="/img/ourbus.jpeg" alt="Ourbus Logo" caption="Ithaca Carshare [10]">}}
+>**{{< external-link href="https://www.ourbus.com/routes?origin=Ithaca,%20NY" >}}Our Bus [16]{{< /external-link >}}**
+> {{< image src="/img/ourbus.jpeg" alt="Ourbus Logo" caption="Ithaca Carshare [9]">}}
 > OurBus is a popular option amongst Cornell and IC students traveling along the East Coast, however, the bus rides are "activated" by demand so they might not be available at times. As such, they are more available during Cornell and IC breaks. Please see the following list of key destinations to/from Ithaca:
 >
 > - Baltimore, MD ($95) - not frequent; more common near breaks
@@ -51,10 +51,10 @@ draft = false
 >
 > To get to the Ithaca Airport from Cornell University and Downtown Ithaca take the TCAT on {{< external-link href="https://www.google.com/maps/dir/Ithaca+Tompkins+International+Airport,+Culligan+Drive,+Ithaca,+NY/Downtown,+Ithaca,+NY/@42.4489487,-76.511933,13.32z/data=!4m14!4m13!1m5!1m1!1s0x89d08282398537b3:0x531403729cf41d94!2m2!1d-76.4585018!2d42.4910833!1m5!1m1!1s0x89d0819c8e655839:0xfa1878509b92491d!2m2!1d-76.4968166!2d42.4396074!3e3?entry=ttu" >}}Route 32{{< /external-link >}}  during any weekday. Take route 77 on the weekends from Cayuga Mall, Winston Court, or Hanshaw Village. You can also go on these routes to go from Ithaca Airport to these destinations.
 
-> **{{< external-link href="https://www.flixbus.co.uk/bus-routes?departureCity=99c4f86c-3ecb-11ea-8017-02437075395e" >}}FlixBus [18]{{< /external-link >}}**
+> **{{< external-link href="https://www.flixbus.co.uk/bus-routes?departureCity=99c4f86c-3ecb-11ea-8017-02437075395e" >}}FlixBus [17]{{< /external-link >}}**
 > {{< image src="/img/flixbus.png" alt="Flixbus">}}
 > Still adding info here.
 
-> **{{< external-link href="https://www.coachusa.com/bus-schedules/ithaca-platinum" >}}Coach USA [19]{{< /external-link >}}**
+> **{{< external-link href="https://www.coachusa.com/bus-schedules/ithaca-platinum" >}}Coach USA [18]{{< /external-link >}}**
 > {{< image src="/img/coachusa.png" alt="Coach USA">}}
 > Still adding info here.

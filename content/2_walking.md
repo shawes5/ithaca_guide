@@ -6,7 +6,7 @@ draft = false
 
 Walking in Ithaca is a delightful way to experience the city's charm and natural beauty. The city is known for its picturesque landscapes, vibrant downtown, and the beautiful campuses of Cornell University and Ithaca College. Walking is not only a healthy and eco-friendly mode of transportation but also allows you to explore areas that might be inaccessible by car or bike.
 
-{{< image-link src="/img/casc.jpg" alt="Cascadilla Gorge Trail" caption="Cascadilla Gorge Trail [13]">}}
+{{< image-link src="/img/casc.jpg" alt="Cascadilla Gorge Trail" caption="Cascadilla Gorge Trail [12]">}}
 
 > Ithaca offers numerous scenic walking routes that cater to different preferences, whether you enjoy leisurely strolls or more challenging hikes. Some popular walking routes include:
 >

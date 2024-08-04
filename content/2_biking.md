@@ -22,7 +22,7 @@ Ithaca is bike-friendly, with many trails and routes like the Cayuga Waterfront 
 >   - Discounts for groups over 5 people, seniors, and tompkins county residents 
 
 > **{{< external-link href="https://ithacabikeshare.org/" >}}Ithaca Bikeshare {{< /external-link >}}**
-{{< image-link src="/img/bikeshare.jpg" alt="Ithaca Bikeshare" caption="Ithaca Bikeshare [7]">}}
+{{< image-link src="/img/bikeshare.jpg" alt="Ithaca Bikeshare" caption="Ithaca Bikeshare [6]">}}
 >   - Ithaca Bikeshare is a class 1, pedal-assist electric bike share network, servicing the residents and visitors of the Ithaca, NY area. As you pedal, a small electric motor adds assistance to boost momentum, making it easier to go long distances or ride up steep hills
 >   - App where you can locate and unlock designated bikes
 >   - With one app, you can unlock 3 bikes at a time, which is great for riding with friends or family
@@ -45,6 +45,6 @@ Ithaca is bike-friendly, with many trails and routes like the Cayuga Waterfront 
 >       - Only recommend this option if you anticipate using bikes frequently. Even so, we recommend testing the service out, especially in the winter months when roads may not be safe to bike on
 
 
-**Biking Map [3]**
+**Biking Map [2]**
 
 {{< image src="/img/bikemap.jpg" alt="Tompkins County Bike Map">}}

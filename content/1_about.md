@@ -40,7 +40,4 @@ We are a team of 3 Cornell undergraduates, composed of in-state, out-of-state, a
 - Minor(s): Operations Research & Information Engineering Applied Economics
 - Year: Senior
 
-#
 
-## Who We've Helped
-To hear testimonies from real users like Chloe, check out the User Testimonies page to see how real Cornell students have benefited from the information given in our guide.
