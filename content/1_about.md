@@ -44,6 +44,3 @@ We are a team of 3 Cornell undergraduates, composed of in-state, out-of-state, a
 
 ## Who We've Helped
 To hear testimonies from real users like Chloe, check out the User Testimonies page to see how real Cornell students have benefited from the information given in our guide.
-Title Page Sources:
-
-[1]  "Ithaca Commons Redesign." Sasaki, 2024. [Photo]. Available: https://www.sasaki.com/projects/ithaca-commons-redesign/ (accessed July 31, 2024).

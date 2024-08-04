@@ -14,7 +14,8 @@ If you don't have a car, you're in luck! There are several buses available to ge
 >
 > You can find the full TCAT map here, though we recommend using the apps listed to help plan your ride:
 >{{< image src="/img/tcatmap.jpeg" alt="TCAT Map" >}}
->
+> TCAT Map [12]
+> 
 > **Check out this {{< external-link href="https://tcatbus.com/bus-schedules#route13/" >}}website{{< /external-link >}}  for current bus schedules and routes.** 
 > You can also access the bus schedules and add notifications on your phone by using the following apps:
 > - {{< external-link href="https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en" >}}Google Maps{{< /external-link >}} - Apple and Android
@@ -37,5 +38,5 @@ If you don't have a car, you're in luck! There are several buses available to ge
 > - Trader Joe's - Route 15 and 67
 >
 > **Hospital**
-> - Cayuga Medical Center - [Route 21](https://maps.app.goo.gl/ZWCFDay1dW3xf8Gp8) from Ithaca Commons
+> - Cayuga Medical Center - Route 21 from Ithaca Commons
 > - Cayuga Women's Health - Route 13
