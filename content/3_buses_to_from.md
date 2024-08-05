@@ -53,8 +53,30 @@ draft = false
 
 > **{{< external-link href="https://www.flixbus.co.uk/bus-routes?departureCity=99c4f86c-3ecb-11ea-8017-02437075395e" >}}FlixBus [17]{{< /external-link >}}**
 > {{< image src="/img/flixbus.png" alt="Flixbus">}}
-> Still adding info here.
+> FlixBus is a bus company that leaves out of Ithaca to many cities around the US. Their prices vary depending on each destination, but they have a lot to choose from. This website is easy to navigate, they present a map of options of different routes their buses take. Some of these options are:
+> - Binghamton, NY
+> - Syracuse, NY
+> - Geneva, NY
+> - Rochester, NY
+> - Scranton, PA
+> - Boston, MA
+> - Newark, NJ
+> - New York, NY
+> - New Haven, CT
+> - Philadelphia, PA
+> 
+> It is important to note that some of these options require taking more than one bus, but FlixBus manages to plan this out and presents different options showing how long the journey will take. Also, we advise to plan longer trips as early as possible to avoid fully booked buses. 
+> 
+> `Most buses from Ithaca to Syracuse stop at Binghamton and change to another bus, therefore it requires taking two buses so it wouldn’t be advised to use this as the first option when trying to get to Syracuse.`
+
 
 > **{{< external-link href="https://www.coachusa.com/bus-schedules/ithaca-platinum" >}}Coach USA [18]{{< /external-link >}}**
 > {{< image src="/img/coachusa.png" alt="Coach USA">}}
-> Still adding info here.
+> Coach USA is a bus company also frequently used by students for their journeys To/From Ithaca. While they offer rides To/From Ithaca, their bookings are through a different website called megabus that show different options of bus companies and time frames to choose from. In their own website, you can find information on where the pick up is (usually 131 East Green Street) and other information about their services. Some of the cities Coach USA travels to are: 
+> - New York, NY
+> - Binghamton, NY
+> - Scranton, PA
+> - Syracuse, NY
+>
+> Coach USA buses are equipped with amenities such as free Wi-Fi, power outlets, and comfortable seating, making your journey as pleasant as possible. Their service is known for being punctual and reliable, which is particularly important for students and professionals alike.
+
