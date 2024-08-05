@@ -42,6 +42,9 @@ This is the source page with detailed information and references.
 
 [18] “FlixBus Logo.” FlixBus. [Photo]. Available: www.flixbus.com 
 
+[19] “New Students.” Ithaca College. [Photo]. Available: www.ithaca.edu/office-residential-life/living-campus/move/new-students 
+
+[20] “The Cornell Store.” Threads. [Photo]. Available: https://www.threads.net/@thecornellstore 
 
 
 

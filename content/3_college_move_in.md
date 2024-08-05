@@ -4,6 +4,8 @@ date = 2024-07-26T18:24:58-04:00
 draft = false
 +++
 
+{{< image-link src="/img/cumovein.jpg" alt="Cornell Move-In" caption="Cornell Move-In [19]">}}
+{{< image-link src="/img/icmovein.png" alt="Ithaca College Move-In" caption="Ithaca College Move-In [20]">}}
 
 ## Moving in/out of Cornell or Ithaca College?
 During move in week, new students often find themselves driving back and forth between their dorms, Target, Wegmans, and any other necessary stores to make sure they are comfortable in their new home. Below we provide several suggestions for those that don't have their own car to get to/from Ithaca.
